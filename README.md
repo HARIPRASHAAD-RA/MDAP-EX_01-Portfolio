@@ -246,6 +246,7 @@ footer {
 ```
 
 ## OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e442b54f-f4d5-457a-801b-ffc13688b334" />
 
 
 ## RESULT
